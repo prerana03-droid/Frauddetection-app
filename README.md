@@ -15,9 +15,9 @@ Try the below transactions on the APP:
 
 Type	    amount	   oldbalanceOrg	newbalanceOrig	oldbalanceDest	newbalanceDest
 
-TRANSFER	2,35,512 	 2,35,512        -   	           -   	          -   
+TRANSFER	2,35,512 	     2,35,512          0 	           0 	            0  
 
-CASH OUT	5,01,719 	 2,68,288 	     -   	           -   	          27,79,773 
+CASH OUT	5,01,719 	     2,68,288 	       0 	           0  	          27,79,773 
 
 
 
